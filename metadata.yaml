@@ -1,0 +1,34 @@
+_repo: Quotes-and-Images-From-Memoirs-of-Marie-Antoinette_7558
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Campan, Mme. (Jeanne-Louise-Henriette)
+    aliases:
+    - Campan, Madame (Jeanne-Louise-Henriette)
+    - Genet, Jeanne-Louise-Henriette
+    - Campan, Jeanne Louise Henriette Genet
+    birthdate: 1752
+    deathdate: 1822
+    gutenberg_agent_id: '1334'
+    url: http://www.gutenberg.org/2009/agents/1334
+    wikipedia: http://en.wikipedia.org/wiki/Jeanne-Louise-Henriette_Campan
+  editor:
+    agent_name: Widger, David
+    birthdate: 1932
+    gutenberg_agent_id: '1961'
+    url: http://www.gutenberg.org/2009/agents/1961
+description: ''
+gutenberg_issued: '2005-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7558'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DC'
+- !lcsh 'Quotations'
+- GITenberg
+title: Quotes and Images From Memoirs of Marie Antoinette
+url: http://www.gutenberg.org/ebooks/7558
